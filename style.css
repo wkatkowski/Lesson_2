@@ -9,6 +9,11 @@ body {
     height: 590px;
 }
 
+.content {
+    text-align: center;
+    width: 1400px;
+}
+
 .heading {
     margin-top: 107px;
 }
@@ -30,10 +35,6 @@ body {
     font-size: 14px;
     text-align: center;
     color: #86878B;
-}
-
-.content {
-    text-align:center;
 }
 
 .container {
