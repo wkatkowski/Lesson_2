@@ -54,10 +54,21 @@ body {
     margin: 0 auto;
     border: 1px solid orange;
     border-radius: 50px;
+    background-image: url("key.png");
+    background-repeat: no-repeat;
+    background-position: center; 
 }
 
-.circle img {
-    padding-top: 21px;
+.circle__1 {
+    background-image: url("lamp.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.circle__2 {
+    background-image: url("key.png");
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 .heading__hh {
