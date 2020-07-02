@@ -4,11 +4,6 @@ box-sizing: border-box;
 font-family: 'Raleway', sans-serif;
 }
 
-body {
-    width: 1400px;
-    height: 590px;
-}
-
 .content {
     text-align: center;
     width: 1400px;
@@ -38,14 +33,15 @@ body {
 }
 
 .container {
-    float: left;
+    display: inline-block;
     width: 350px;
     height: 197px;
     margin: 80px 32px 104px 0;
 }
 
 .first__container {
-    margin-left: 143px;
+    margin-left: 0 auto;
+    width: 350px;
 }
 
 .circle {
