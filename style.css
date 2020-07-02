@@ -4,9 +4,8 @@
     font-family: 'Raleway', sans-serif;
     }
     
-    .content {
-        text-align: center;
-        width: 1400px;
+    .wrapper {
+        margin: 0 auto;
     }
     
     .heading {
@@ -34,16 +33,20 @@
     
     .content__width {
         margin: 0 auto;
-        width: 1400px;
+        width: 1125px;
     }
     
     .container {
-        display: inline-block;
+        float: left;;
         width: 350px;
         height: 197px;
         margin: 80px 32px 104px 0;
     }
-    
+
+    .container__last {
+        margin-right: 0;
+    }
+
     .circle {
         width: 70px;
         height: 70px;
