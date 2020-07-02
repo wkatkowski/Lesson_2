@@ -33,7 +33,7 @@ font-family: 'Raleway', sans-serif;
 }
 
 .content__width {
-    margin-left: 0 auto;
+    margin: 0 auto;
     width: 1400px;
 }
 
