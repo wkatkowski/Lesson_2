@@ -39,9 +39,9 @@ font-family: 'Raleway', sans-serif;
     margin: 80px 32px 104px 0;
 }
 
-.first__container {
+.content__width {
     margin-left: 0 auto;
-    width: 350px;
+    width: 1400px;
 }
 
 .circle {
